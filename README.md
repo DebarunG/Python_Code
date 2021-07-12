@@ -1,5 +1,5 @@
 # Python_code
-Welcome to my Python code repository. As of now, the notebooks that you see here are taken from the projects that I worked on as part of my Machine Learning with Python course on Coursera. The datasets used in the notebooks are taken from IBM's cloud storage. I've explained the topics of these projects in brief below.
+Welcome to my Python code repository. The notebooks that you see here are taken from the projects that I worked on as part of my Machine Learning with Python course on Coursera. The datasets used in the notebooks are taken from IBM's cloud storage. I've explained the topics of these projects in brief below, in the same order that you'll find the notebooks in the repository.
 
 ## Logistic Regression - Churn Dataset
 The dataset is based on a fictional telecom company that provided home phone and internet services to 7043 customers in California during one financial quarter. The main dependent variable in the model is **Churn**, which is a categorical variable which equals 1 when the customer left the company in the quarter, and 0 when the customer remained with the company. Key regressors include:
